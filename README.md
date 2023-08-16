@@ -2,7 +2,9 @@
 
 ![Fluffy, illuminated clouds installed above they foyer of a modest apartment. They glow a variety of rainbow colors.](https://raw.githubusercontent.com/mike-kiss/the-clouds/main/the-clouds-installed.png)
 
-A whimsical collection of LED strips, wire, and quilt batting. Originally built as outdoor trail lighting for a summer art festival, it is now permanently installed in the home of one of its creators. Fabricated and co-designed by [Ecco Pierce](https://allthingsecco.com/).
+A whimsical collection of LED strips, wire, and quilt batting. Originally built as outdoor trail lighting for a summer art festival, it is now permanently installed in the home of one of its creators. 
+
+Fabricated and co-designed by [Ecco Pierce](https://allthingsecco.com/).
 
 The technology stack:
 - Based on an Arduino Mega.
