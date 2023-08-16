@@ -8,7 +8,7 @@ The technology stack:
 - Based on an Arduino Mega.
 - Drives 3 LED light strips (two for two sets of clouds, plus one for the lightning bolts).
 - Uses an Adafruit_VS1053 to play sounds.
-- Uses an array of relays to provide directional sound by directly switching the signal between speakers.
+- Uses an array of relays to provide directional sound by directly switching the signal between speakers. Originally these were 3 battery-operated portable speakers. Currently it runs a single subwoofer and 3 satellite speakers.
 - Has a public button that changes animations and color palettes for the default trail lighting. Originally it allowed the public to make it do a small animation (a "trick") every 60 seconds. It will also do the trick animations on a semi-random timer.
 - Has a private button that triggers a thunder storm. It will also do the storm animations on a semi-random timer.
 
