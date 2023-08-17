@@ -19,8 +19,8 @@ Fabricated and co-designed by [Ecco Pierce](https://allthingsecco.com/).
 ### The Materials
 - The clouds themselves are welded galvanized steel dressed with two layers of quilt batting.
 - The lightning bolts are laser-cut acrylic coated with spray adhesive (except where a few pieces were lost and replaced with pebbled plastic from gallon-size drink containers).
-- The cables are dressed in split sleeve wire loom.
 - The public button is set in a 3d printed case. The private button is hot-glued into a pipe wrapped with colorful electrical tape.
+- The cables are dressed in split sleeve wire loom.
 - The control box and subwoofer are dressed in an old rainbow hoodie.
 
 ![An illuminated blue panel hangs on the wall with a bright white button in the center. Below, it connects to a rainbow box with has another device on top of it. The device looks like a rainbow striped detonator button](https://github.com/mike-kiss/the-clouds/blob/main/the-clouds-buttons.jpeg?raw=true)
