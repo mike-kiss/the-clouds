@@ -6,6 +6,8 @@ A whimsical collection of LED strips, wire, and quilt batting. Originally built 
 
 Fabricated and co-designed by [Ecco Pierce](https://allthingsecco.com/).
 
+![Mike Kissinger and Ecco Pierce The Clouds    2017 Wire, quilt batting, LED strips, buttons, Arduino, speakers, hoodie This award-winning tour de force wowed audiences at the Firefly Arts Festival in 2017 and 2018, where its gentle glow guided guests through treacherous terrain, then blew their minds when it broke into a raucous thunder storm on a semi-random timer. Its interactive button amused, amazed, tantalized, and trolled with shorter animations. After a quite literal debugging, it is now a permanent installation in the Kisszzo Gallery where it continues to provide light and whimsy to all who dare to behold its majesty.](https://raw.githubusercontent.com/mike-kiss/the-clouds/main/the-card.jpg)
+
 ### The Technology Stack
 - Based on an Arduino Mega.
 - Drives 3 WS2811 LED strips (two for two sets of clouds, plus one for the lightning bolts).
