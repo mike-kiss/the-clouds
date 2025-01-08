@@ -12,7 +12,7 @@ Fabricated and co-designed by [Ecco Pierce](https://allthingsecco.com/).
 - Based on an Arduino Mega.
 - Drives 3 WS2811 LED strips (two for two sets of clouds, plus one for the lightning bolts).
 - Uses an Adafruit_VS1053 to play sounds.
-- Uses an array of relays to provide directional sound by directly switching the signal between speakers. Originally these were 3 battery-operated portable speakers. Currently it runs a single subwoofer and 3 satellite speakers.
+- Uses an array of relays to provide directional sound by directly switching the signal between speakers. Currently it runs a single subwoofer and 3 satellite speakers. Originally these were 3 battery-operated portable speakers, which was more effective, and convenient for deployment in the woods (where the batteries needed to be managed daily regardless), but I didn't have an easy way to manage the charging and turning on and off once the clouds were installed indoors.
 - Has a public button that changes animations and color palettes for the default trail lighting. Originally it allowed the public to make it do a small animation (a "trick") every 60 seconds. It will also do the trick animations on a semi-random timer.
 - Has a private button that triggers a thunder storm. It will also do the storm animations on a semi-random timer.
 
